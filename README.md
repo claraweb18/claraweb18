@@ -1,7 +1,11 @@
 <h1>Ana Clara</h1>
 
-<p> Este é o texto  apresentação de vocês</h1>
+<p>Cursando ensino médio</p>
 
-<p>Tchau</p>
+<p>Cursando programador web</p>
 
-https://github.com/claraweb18/claraweb18.git
+<p> Morando em São Paulo do Potengi </p> :hearts:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
