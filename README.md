@@ -6,7 +6,7 @@
 
 <p> Morando em São Paulo do Potengi </p> :hearts:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" wildh = 50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "50px"/>
           
    <p> Fiz uma edição aqui em casa</p> :hearts:
 
