@@ -5,7 +5,7 @@
 <p> Cursando 3 ano do ensino médio - IFRN Campus São Palo do Potengi</p>
 
 <h3>Cursos extras</h3>
-<p>Cursando programação web</p>
+<p>Programação web - IFRN</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "50px"/>
           
 
