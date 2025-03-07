@@ -1,6 +1,7 @@
 <h1>Ana Clara</h1>
 
-<p>Cursando ensino médio</p>
+<h2>Escolaridade</h2>
+<p> Cursando ensino médio</p>
 
 <p>Cursando programador web</p>
 
