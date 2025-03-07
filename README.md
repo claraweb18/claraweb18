@@ -3,6 +3,7 @@
 <h2>Escolaridade</h2>
 <p> Cursando ensino médio</p>
 
+<h3>Cursos extras</h3>
 <p>Cursando programador web</p>
 
 <p> Morando em São Paulo do Potengi </p> :hearts:
