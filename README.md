@@ -2,10 +2,13 @@
 <p> Morando em São Paulo do Potengi </p> :hearts:
 
 <h2>Escolaridade</h2>
-<p> Cursando ensino médio</p>
+<p> Cursando 3 ano do ensino médio</p>
 
 <h3>Cursos extras</h3>
-<p>Cursando programador web</p>
+<p>Cursando programação web</p>
+
+<h4> Línguas extrangeiras </h4>
+<p> Inglês </p>
 
 
 
