@@ -6,12 +6,13 @@
 
 <h3>Cursos extras</h3>
 <p>Cursando programação web</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "50px"/>
+          
 
 <h4> Línguas extrangeiras </h4>
 <p> Inglês </p>
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "50px"/>
-          
+
    
